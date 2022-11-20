@@ -44,6 +44,10 @@ nav{
   margin: 10%;
   margin-bottom: 8%;
   margin-top:15%;
+  margin: 15%;
+  padding: 20px;
+  margin-bottom: 3%;
+  margin-top:10%;
   height: 100%;
   background-color: rgba(219, 217, 204, 0.843);
   display: flex;
@@ -71,7 +75,7 @@ nav{
   font-style: normal;
   font-weight: 500;
   font-size: 21px;
-  line-height: 51px;
+  line-height: 31px;
   text-decoration: none;
   
   color: #000000;
@@ -84,4 +88,5 @@ nav{
   width: 160px;
   
 
+  height: 160px;
 }
