@@ -39,13 +39,16 @@ nav{
 
 .phrase{
   margin: 15%;
-  padding: 20px;
+  padding: 30px;
+  padding-top: 40px;
   margin-bottom: 3%;
   margin-top:10%;
   height: 100%;
-  background-color: rgba(240, 248, 255, 0.473);
+  background-color: rgba(14, 223, 66, 0.404);
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 40px;
 }
 
 .menu_text{
@@ -60,16 +63,29 @@ nav{
 }
 
 .menu_text_small{
-  font-family: 'Jost';
+  font-family: 'Jacques Francois';
   font-style: normal;
-  font-weight: 500;
-  font-size: 21px;
-  line-height: 31px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 42px;
   text-decoration: none;
 }
 
+.header_text{
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 40px;
+  text-decoration: none;
+  color: #005521;
+}
 
 .icon{
   width: 160px;
   height: 160px;
+}
+
+.img_medium{
+  width: 80%;
 }
